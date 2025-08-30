@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nitish Singh  
 
-<!--
-**NitishSinghjtpr/NitishSinghjtpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate software developer from India  
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Java & Spring Boot   
+-Data Structure & Algorithm 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- Java | C |  
+- HTML | CSS | JavaScript  
+- SQL | Git & GitHub  
+
+### 📂 Featured Projects 
+- 🔹 [ATM Management System]([https://github.com/your-repo-link](https://github.com/NitishSinghjtpr/Learning-java/blob/main/ATM%20management%20System/ATM.java))  
+
+### 📫 How to reach me
+- Email: nitishsinghjtpr@gmail.com  
+- LinkedIn: [Your Profile]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/nitish-kumar-8aab70270/))  
+
+⚡ **Fun fact:** I love solving DSA problems and building projects for fun.  
