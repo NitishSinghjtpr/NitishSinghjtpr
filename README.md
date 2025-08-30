@@ -58,7 +58,7 @@
 ## 📂 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/NitishSinghjtrpr/ATM-Management-System/ATM.java">
+  <a href="https://github.com/NitishSinghjtpr/Learning-java/tree/main/ATM%20management%20System">
     <img src="https://img.shields.io/badge/ATM_Management_System-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue"/>
   </a>
 </p>
